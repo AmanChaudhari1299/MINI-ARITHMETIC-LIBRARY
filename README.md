@@ -1,1 +1,12 @@
 # MINI-ARITHMETIC-LIBRARY
+
+
+
+
+
+
+
+
+
+
+

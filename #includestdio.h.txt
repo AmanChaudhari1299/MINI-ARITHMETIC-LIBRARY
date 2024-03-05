@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    int n;
     printf("Enter the first number of table you can find:");
     scanf("%d",&n);
     switch(n)
